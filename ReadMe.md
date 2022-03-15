@@ -18,7 +18,7 @@ The housing market in Ames, Iowa is seeing a sudden rise. Developer A wants to m
 ## III. The Modeling Process
 #### <u>EDA</u>
 The dataset consisted of 82 columns and 2051 rows.  After doing an intial heatmap to see what the top features were that correlated mostly to price, I decided to use the top 7.
-<img src='./images/7feat.png'>
+<img src='./Images/7feat.png'>
 
 #### <u>Data Insights</u>
 - I used 7 key features that correlated with the highest home sale prices
